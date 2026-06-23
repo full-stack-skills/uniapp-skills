@@ -4,7 +4,7 @@
 
 **uni-app cross-platform development skills**
 
-[![GitHub](https://img.shields.io/badge/github-full--statck--skills%2Funiapp-skills-green.svg)](https://github.com/full-statck-skills/uniapp-skills)
+[![GitHub](https://img.shields.io/badge/github-full--stack--skills%2Funiapp-skills-green.svg)](https://github.com/full-stack-skills/uniapp-skills)
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-兼容-purple.svg)](https://agentskills.io)
 
@@ -21,7 +21,7 @@
 ## 📦 安装
 
 ```bash
-npx skills add full-statck-skills/uniapp-skills
+npx skills add full-stack-skills/uniapp-skills
 ```
 
 ## 🎯 技能列表 (13)
@@ -51,13 +51,13 @@ npx skills add full-statck-skills/uniapp-skills
 **方式一：npx skills CLI（推荐）**
 
 ```bash
-npx skills add full-statck-skills/uniapp-skills
+npx skills add full-stack-skills/uniapp-skills
 ```
 
 **方式二：手动安装**
 
 ```bash
-git clone https://github.com/full-statck-skills/uniapp-skills.git
+git clone https://github.com/full-stack-skills/uniapp-skills.git
 cp -r uniapp-skills/skills/* .claude/skills/
 ```
 

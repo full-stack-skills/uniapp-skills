@@ -6,8 +6,8 @@
     "name": "PartMeAI",
     "email": "partmeai@gmail.com"
   },
-  "homepage": "https://github.com/full-statck-skills/uniapp-skills",
-  "repository": "https://github.com/full-statck-skills/uniapp-skills",
+  "homepage": "https://github.com/full-stack-skills/uniapp-skills",
+  "repository": "https://github.com/full-stack-skills/uniapp-skills",
   "source": "./",
   "skills": [
     "./skills/uniapp-ad",
