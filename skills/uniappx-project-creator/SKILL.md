@@ -1,7 +1,7 @@
 ---
 name: uniappx-project-creator
 description: Provides one-command project creation for uni-app-x including Vue 3 + TypeScript + Vite setup, configuration, and template generation. Use when the user asks to create a uni-app-x project with a single command, needs to initialize a new uni-app-x project, or generate uni-app-x project structure.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

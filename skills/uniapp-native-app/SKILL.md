@@ -1,7 +1,7 @@
 ---
 name: uniapp-native-app
 description: A comprehensive skill for uni-app native app offline packaging. Use this skill to package uni-app as native Android/iOS apps, configure native app settings, handle signing, and follow official offline packaging documentation.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

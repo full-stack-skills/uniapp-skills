@@ -1,7 +1,7 @@
 ---
 name: uniapp-cloud
 description: A comprehensive skill for uniCloud cloud development in the uni-app ecosystem. Use this skill when you need uniCloud project setup, cloud database CRUD, cloud functions, storage, or datacom components, following official uniCloud documentation.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

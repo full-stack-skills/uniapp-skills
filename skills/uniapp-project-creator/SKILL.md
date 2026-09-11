@@ -1,7 +1,7 @@
 ---
 name: uniapp-project-creator
 description: Provides one-command project creation for uni-app using the official quickstart CLI, including project initialization, configuration, and template selection. Use when the user asks to create a uni-app project with a single command, needs to initialize a new uni-app project, or generate uni-app project structure.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

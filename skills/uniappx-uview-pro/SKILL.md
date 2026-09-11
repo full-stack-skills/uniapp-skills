@@ -1,7 +1,7 @@
 ---
 name: uniappx-uview-pro
 description: A comprehensive skill for integrating and using uView Pro with UniAppX projects. This skill focuses on UniAppX-specific integration, configuration, and platform-specific considerations when using uView Pro in UniAppX applications. Use this skill whenever the user needs to integrate uView Pro into UniAppX projects, configure UniAppX-specific settings, or handle platform differences.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

@@ -1,7 +1,7 @@
 ---
 name: uniapp-project
 description: Provides comprehensive uni-app component and API integration guidance. Use when the user needs official uni-app components or APIs, wants per-component or per-API examples, or needs cross-platform compatibility details.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

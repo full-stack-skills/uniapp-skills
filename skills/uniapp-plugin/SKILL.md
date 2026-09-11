@@ -1,7 +1,7 @@
 ---
 name: uniapp-plugin
 description: A comprehensive skill for the uni-app plugin market and automatic plugin installation. Use this skill to browse plugins, auto-install plugins, configure plugin settings, and integrate third-party plugins based on the official plugin market docs.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

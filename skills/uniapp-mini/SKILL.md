@@ -1,7 +1,7 @@
 ---
 name: uniapp-mini-guide
 description: A comprehensive skill for uni-app mini program development. Use when building uni-app mini programs, configuring mini program settings, or working with mini program components and APIs based on the official native support docs.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

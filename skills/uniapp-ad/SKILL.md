@@ -1,7 +1,7 @@
 ---
 name: uniapp-ad
 description: A comprehensive skill for uni-ad monetization in uni-app. Use this skill to integrate ads, configure ad types, handle ad events, and follow official uni-ad documentation.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

@@ -1,7 +1,7 @@
 ---
 name: uniappx-project
 description: Provides comprehensive uni-app-x component and API integration guidance. Use when the user needs official uni-app-x components or APIs, wants per-component or per-API examples, or needs cross-platform compatibility details for uni-app-x.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill

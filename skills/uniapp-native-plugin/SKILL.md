@@ -1,7 +1,7 @@
 ---
 name: uniapp-native-plugin
 description: A comprehensive skill for developing native plugins for uni-app. Use this skill when building Android/iOS native plugins, integrating native capabilities, or publishing plugins based on official native plugin docs.
-license: Complete terms in LICENSE.txt
+license: Apache-2.0
 ---
 
 ## When to use this skill
