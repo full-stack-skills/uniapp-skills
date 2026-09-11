@@ -66,3 +66,5 @@ cp -r uniapp-skills/skills/* .claude/skills/
 ## 📄 License
 
 Apache 2.0
+
+第三方组件归属声明：详见 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)。
